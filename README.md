@@ -39,8 +39,9 @@
 ### 🎮 Personal Interests
 
 #### 🎮 Gaming
+
 > **Steam**  
-> ![Steam Card](https://card.yuy1n.io/card/76561199086898514/dark,en,badge,group,bg-game-220200,badges,games,artworks)
+> ![Steam Card](https://steam-card.yuhiri.top/card/76561199086898514/dark,en,badge,group,bg-game-220200,badges,games,artworks)
 
 ---
 
