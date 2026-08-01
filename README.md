@@ -41,7 +41,7 @@
 #### 🎮 Gaming
 
 > **Steam**  
-> ![Steam Card](https://steam-card.yuhiri.top/card/76561199086898514/dark,en,badge,group,bg-game-220200,badges,games,artworks)
+> ![Steam Card](https://steam-card.yuhiri.top/card/76561199086898514/dark,en,badge,bg-game-2510770,badges,games,screenshots)
 
 ---
 
