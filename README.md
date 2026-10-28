@@ -31,10 +31,10 @@
 
 ### 📊 GitHub Statistics
 
-[![talentestors' GitHub stats](https://github-status.yuhiri.top/api?username=talentestors&show_icons=true&theme=radical)](https://github-status.yuhiri.top/api?username=talentestors&show_icons=true&theme=radical)&nbsp;
-[![talentestors' GitHub stats](https://github-status.yuhiri.top/api/top-langs/?username=talentestors&show_icons=true&include_all_commits=true&theme=radical&langs_count=8&layout=compact&hide=html)](https://github-status.yuhiri.top/api/top-langs/?username=talentestors&show_icons=true&include_all_commits=true&theme=radical&langs_count=20)
+[![yuhiri' GitHub stats](https://github-status.yuhiri.top/api?username=yuhiri&show_icons=true&theme=radical)](https://github-status.yuhiri.top/api?username=yuhiri&show_icons=true&theme=radical)&nbsp;
+[![yuhiri' GitHub stats](https://github-status.yuhiri.top/api/top-langs/?username=yuhiri&show_icons=true&include_all_commits=true&theme=radical&langs_count=8&layout=compact&hide=html)](https://github-status.yuhiri.top/api/top-langs/?username=yuhiri&show_icons=true&include_all_commits=true&theme=radical&langs_count=20)
 
-[![trophy](https://github-profile-trophy.yuhiri.top/?username=talentestors&no-frame=true&theme=dracula&rank=-?&column=-1)](https://github-profile-trophy.yuhiri.top/?username=talentestors&no-frame=true&theme=dracula&rank=-?&column=-1)
+[![trophy](https://github-profile-trophy.yuhiri.top/?username=yuhiri&no-frame=true&theme=dracula&rank=-?&column=-1)](https://github-profile-trophy.yuhiri.top/?username=yuhiri&no-frame=true&theme=dracula&rank=-?&column=-1)
 
 ### 🎮 Personal Interests
 
@@ -45,4 +45,4 @@
 
 ---
 
-![talentestors.github.profile](https://count.getloli.com/get/@talentestors.github.profile?theme=rule34&darkmode=0)
+![yuhiri.github.profile](https://count.getloli.com/get/@yuhiri.github.profile?theme=rule34&darkmode=0)
