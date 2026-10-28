@@ -1,8 +1,8 @@
 [![trophy](https://github-profile-trophy.yuhiri.top/?username=yuhiri&no-frame=true&theme=dracula&rank=-?&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Waka time](https://github-status.yuhiri.top/api/wakatime?username=yuhiri&hide=Other)](https://wakatime.com/@018b66e8-e234-4be9-9887-627312a2cd1e)
+[![Waka time](https://github-status.yuhiri.top/api/wakatime?username=talentestors&hide=Other)](https://wakatime.com/@018b66e8-e234-4be9-9887-627312a2cd1e)
 
-[![Waka time](https://github-status.yuhiri.top/api/wakatime?username=yuhiri&layout=compact&hide=Other)](https://wakatime.com/@018b66e8-e234-4be9-9887-627312a2cd1e)
+[![Waka time](https://github-status.yuhiri.top/api/wakatime?username=talentestors&layout=compact&hide=Other)](https://wakatime.com/@018b66e8-e234-4be9-9887-627312a2cd1e)
 
 ![github-readme-stats](https://github-status.yuhiri.top/api/top-langs/?username=yuhiri&show_icons=true&include_all_commits=true&theme=radical)
 
